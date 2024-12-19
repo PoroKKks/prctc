@@ -1,0 +1,264 @@
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.exe
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.deps.json
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.runtimeconfig.json
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.pdb
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.AssemblyReference.cache
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Form1.resources
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Login.resources
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Properties.Resources.resources
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.GenerateResource.cache
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.AssemblyInfoInputs.cache
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.AssemblyInfo.cs
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.CoreCompileInputs.cache
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.Up2Date
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\refint\SytnikPP.dll
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.pdb
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.genruntimeconfig.cache
+C:\Users\iRu\Desktop\Практика 5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\ref\SytnikPP.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.exe
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.deps.json
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.runtimeconfig.json
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.pdb
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\CaptchaGen.NetCore.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\QRCoder.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.ClientModel.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.AssemblyReference.cache
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.CommentClient.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.MenuClient.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.QRcodeClient.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RedactRequest.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequestAddClient.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Form1.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Login.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Manager.ManagerMenu.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Manager.RequestManager.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.CommentSpecialist.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.DetaliSpecialist.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequstSpecialist.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.SpecialistMenu.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.OperatorMenu.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequestOperator.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Properties.Resources.resources
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.GenerateResource.cache
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.GeneratedMSBuildEditorConfig.editorconfig
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.AssemblyInfoInputs.cache
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.AssemblyInfo.cs
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.CoreCompileInputs.cache
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.Up2Date
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\refint\SytnikPP.dll
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.pdb
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.genruntimeconfig.cache
+F:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\ref\SytnikPP.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.exe
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.deps.json
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.runtimeconfig.json
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.pdb
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\CaptchaGen.NetCore.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\QRCoder.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.AssemblyReference.cache
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.CommentClient.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.MenuClient.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.QRcodeClient.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RedactRequest.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequestAddClient.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Form1.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Login.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Manager.ManagerMenu.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Manager.RequestManager.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.CommentSpecialist.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.DetaliSpecialist.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequstSpecialist.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.SpecialistMenu.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.OperatorMenu.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequestOperator.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Properties.Resources.resources
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.GenerateResource.cache
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.AssemblyInfoInputs.cache
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.AssemblyInfo.cs
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.CoreCompileInputs.cache
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.Up2Date
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\refint\SytnikPP.dll
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.pdb
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.genruntimeconfig.cache
+D:\УЧЕБНАЯ ПРАКТИКА\5 задание\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\ref\SytnikPP.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.exe
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.deps.json
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.runtimeconfig.json
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\SytnikPP.pdb
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\CaptchaGen.NetCore.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\QRCoder.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.AssemblyReference.cache
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.CommentClient.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.MenuClient.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.QRcodeClient.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RedactRequest.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequestAddClient.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Form1.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Login.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Manager.ManagerMenu.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Manager.RequestManager.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.CommentSpecialist.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.DetaliSpecialist.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequstSpecialist.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.SpecialistMenu.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.OperatorMenu.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.RequestOperator.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.Properties.Resources.resources
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.GenerateResource.cache
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.AssemblyInfoInputs.cache
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.AssemblyInfo.cs
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.CoreCompileInputs.cache
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.csproj.Up2Date
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\refint\SytnikPP.dll
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.pdb
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\SytnikPP.genruntimeconfig.cache
+C:\Users\429193-17\Desktop\SytnikPP\SytnikPP\obj\Debug\net8.0-windows\ref\SytnikPP.dll

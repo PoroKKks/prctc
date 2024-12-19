@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGT6KxhNmsQ=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\429193-17\\Desktop\\SytnikPP\\test\\test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Проект SytnikPP несовместим с net8.0 (.NETCoreApp,Version=v8.0). Проект SytnikPP поддерживает: net8.0-windows7.0 (.NETCoreApp,Version=v8.0)",
+      "libraryId": "SytnikPP",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
